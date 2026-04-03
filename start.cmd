@@ -1,4 +1,14 @@
 @echo off
+echo Teams
+start ms-teams:///
+echo Edge
+start msedge
+echo Chrome
+start chrome
+echo aimode
+start chrome "https://google.com/aimode/"
+echo edge aimode
+start msedge "https://google.com/aimode/"
 echo Resourse Manager is laggy, let's do that!
 start resmon
 echo Task Manager takes up a lot of RAM, let's use that as well
