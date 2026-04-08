@@ -1,6 +1,10 @@
 @echo off
+echo OneDrive
+start "C:\Program Files\Microsoft OneDrive\26.055.0323.0004\OneDrive.Sync.Service.exe"
+start "C:\Program Files\Microsoft OneDrive\OneDrive.exe"
+start "C:\Program Files\Microsoft OneDrive\OneDrive.App.exe"
 echo Teams
-start ms-teams:///
+start ms-teams
 echo Edge
 start msedge
 echo Chrome
