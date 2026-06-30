@@ -24,7 +24,7 @@ start MsMpEng
 echo Desktop Window Manager
 start dwm
 echo Pop-ups!
-start chrome "https://youareanidiot.cc/"
+start chrome "https://youareanidiot.cc/lol.html"
 echo File Explorer!
 start explorer
 echo is minecraft bedrock installled?
